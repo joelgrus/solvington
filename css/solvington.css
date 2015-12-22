@@ -1,0 +1,58 @@
+.navbar-inverse {
+  background-color: #660066;
+  border-color: #080808;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #cccccc;
+}
+
+p > a {
+	color: #990066;
+}
+
+li.tooltip-social {
+	color: #660066;
+}
+
+.breadcrumb > li > a {
+	color: #660066;
+}
+
+.breadcrumb > li > a:hover {
+	color: #990066;
+}
+
+.nav-tabs > li > a {
+	color: #660066;
+}
+
+.nav-tabs > li.active > a {
+	color: #990066;
+}
+
+h1.page-header, h2, h3, .solvington {
+  color: #660066;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.solvington {
+	font-family: 'Fredericka the Great', cursive;
+}
+ 
+.navbar-brand {
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 30px;
+}
+
+.fa-hospital, .fa-globe, .fa-heart, .fa-cloud-upload {
+	color: #660066;
+}
+
